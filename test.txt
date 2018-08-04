@@ -1,0 +1,11 @@
+ Volume in drive C is Windows 7
+ Volume Serial Number is 5617-E54B
+
+ Directory of C:\Users\Toshiba\Desktop\MyProject
+
+04-08-2018  08:12    <DIR>          .
+04-08-2018  08:12    <DIR>          ..
+04-08-2018  08:11    <DIR>          New folder
+04-08-2018  08:12                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)   5,120,020,480 bytes free
